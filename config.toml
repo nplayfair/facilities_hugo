@@ -44,6 +44,11 @@ enableGitInfo = false
 home = [ "HTML", "RSS", "JSON"]
 
 
+[[menu.shortcuts]]
+name = "<i class='fa fa-home'></i> <label>Home</label>"
+url = "/"
+weight = 9
+
 # [[menu.shortcuts]]
 # pre = "<h3>More</h3>"
 # name = "<i class='fa fa-github'></i> <label>Github repo</label>"
