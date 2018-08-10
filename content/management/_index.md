@@ -1,7 +1,8 @@
 +++
 date = "2018-08-09"
 description = "Management services main category"
-title = "Management Services"
+title = "Management"
+pre ="<i class='fa fa-briefcase'></i> &nbsp;"
 weight = "3"
 +++
 
